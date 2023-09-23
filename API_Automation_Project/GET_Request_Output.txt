@@ -1,0 +1,120 @@
+
+Get All Users URL :  https://gorest.co.in/public/v2/users
+
+******** ALL ASSERTIONS PASSED ********
+[
+    {
+        "id": 5188757,
+        "name": "Sanjay Dwivedi DC",
+        "email": "dwivedi_sanjay_dc@gutmann-towne.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5188750,
+        "name": "Mohini Panicker",
+        "email": "panicker_mohini@blanda.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5188749,
+        "name": "Devvrat Butt III",
+        "email": "butt_iii_devvrat@davis.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5186698,
+        "name": "Elakshi Sethi DVM",
+        "email": "sethi_elakshi_dvm@brown.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5186697,
+        "name": "Rajendra Patel",
+        "email": "rajendra_patel@brown-beahan.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5186696,
+        "name": "Drona Shukla",
+        "email": "shukla_drona@hirthe.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5186694,
+        "name": "Bhadran Johar",
+        "email": "johar_bhadran@runte-borer.test",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5186693,
+        "name": "Damodara Guha",
+        "email": "guha_damodara@hermann.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5186692,
+        "name": "The Hon. Kannan Panicker",
+        "email": "kannan_panicker_the_hon@douglas.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5186691,
+        "name": "Miss Parvati Nair",
+        "email": "parvati_miss_nair@vonrueden-altenwerth.test",
+        "gender": "female",
+        "status": "active"
+    }
+]
+
+******** All users printed ********
+
+Get Specific Users URL :  https://gorest.co.in/public/v2/users/5188757
+
+******** ALL ASSERTIONS PASSED ********
+{
+    "id": 5188757,
+    "name": "Sanjay Dwivedi DC",
+    "email": "dwivedi_sanjay_dc@gutmann-towne.test",
+    "gender": "female",
+    "status": "active"
+}
+
+******** Specific users printed ********
+
+Get Specific info of All Users URL :  https://gorest.co.in/public/v2/users
+
+******** ALL ASSERTIONS PASSED ********
+User details of user 1 is ==>  {5188757} {'Sanjay Dwivedi DC'}
+User details of user 2 is ==>  {5188750} {'Mohini Panicker'}
+User details of user 3 is ==>  {5188749} {'Devvrat Butt III'}
+User details of user 4 is ==>  {5186698} {'Elakshi Sethi DVM'}
+User details of user 5 is ==>  {5186697} {'Rajendra Patel'}
+User details of user 6 is ==>  {5186696} {'Drona Shukla'}
+User details of user 7 is ==>  {5186694} {'Bhadran Johar'}
+User details of user 8 is ==>  {5186693} {'Damodara Guha'}
+User details of user 9 is ==>  {5186692} {'The Hon. Kannan Panicker'}
+User details of user 10 is ==>  {5186691} {'Miss Parvati Nair'}
+
+******** Specific info of all users printed ********
+
+Get Specific Info of Specific Users URL :  https://gorest.co.in/public/v2/users
+
+******** ALL ASSERTIONS PASSED ********
+
+Basic info of Bhadran Johar is : 
+ {
+    "id": 5186694,
+    "name": "Bhadran Johar",
+    "email": "johar_bhadran@runte-borer.test"
+}
+
+******** Specific info of Bhadran Johar printed ********
