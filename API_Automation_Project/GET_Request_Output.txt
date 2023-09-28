@@ -4,87 +4,87 @@ Get All Users URL :  https://gorest.co.in/public/v2/users
 ******** ALL ASSERTIONS PASSED ********
 [
     {
-        "id": 5188757,
+        "id": 5224101,
+        "name": "Ankit6",
+        "email": "becwhivcar@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5224100,
+        "name": "Ankit7",
+        "email": "bsqpjdylyu@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5224097,
+        "name": "Ankit7",
+        "email": "wrfjmjkjjf@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5224095,
+        "name": "Ankit3",
+        "email": "yhqtcccflj@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5224083,
+        "name": "Ankit2",
+        "email": "zwuyfustbz@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5224082,
+        "name": "Ankit5",
+        "email": "mumzuukwoc@example.com",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5224079,
         "name": "Sanjay Dwivedi DC",
-        "email": "dwivedi_sanjay_dc@gutmann-towne.test",
+        "email": "prqwrcsoba@example.com",
         "gender": "female",
         "status": "active"
     },
     {
-        "id": 5188750,
-        "name": "Mohini Panicker",
-        "email": "panicker_mohini@blanda.example",
-        "gender": "male",
-        "status": "active"
-    },
-    {
-        "id": 5188749,
-        "name": "Devvrat Butt III",
-        "email": "butt_iii_devvrat@davis.test",
-        "gender": "male",
-        "status": "active"
-    },
-    {
-        "id": 5186698,
-        "name": "Elakshi Sethi DVM",
-        "email": "sethi_elakshi_dvm@brown.example",
+        "id": 5223939,
+        "name": "Suryakanta Joshi",
+        "email": "joshi_suryakanta@schulist.example",
         "gender": "female",
         "status": "inactive"
     },
     {
-        "id": 5186697,
-        "name": "Rajendra Patel",
-        "email": "rajendra_patel@brown-beahan.test",
-        "gender": "male",
-        "status": "active"
-    },
-    {
-        "id": 5186696,
-        "name": "Drona Shukla",
-        "email": "shukla_drona@hirthe.example",
+        "id": 5223938,
+        "name": "Inder Pilla",
+        "email": "inder_pilla@gleichner.test",
         "gender": "female",
         "status": "active"
     },
     {
-        "id": 5186694,
-        "name": "Bhadran Johar",
-        "email": "johar_bhadran@runte-borer.test",
+        "id": 5223937,
+        "name": "Rep. Malati Reddy",
+        "email": "reddy_rep_malati@johns-hagenes.example",
         "gender": "female",
         "status": "inactive"
-    },
-    {
-        "id": 5186693,
-        "name": "Damodara Guha",
-        "email": "guha_damodara@hermann.example",
-        "gender": "female",
-        "status": "active"
-    },
-    {
-        "id": 5186692,
-        "name": "The Hon. Kannan Panicker",
-        "email": "kannan_panicker_the_hon@douglas.test",
-        "gender": "male",
-        "status": "active"
-    },
-    {
-        "id": 5186691,
-        "name": "Miss Parvati Nair",
-        "email": "parvati_miss_nair@vonrueden-altenwerth.test",
-        "gender": "female",
-        "status": "active"
     }
 ]
 
 ******** All users printed ********
 
-Get Specific Users URL :  https://gorest.co.in/public/v2/users/5188757
+Get Specific Users URL :  https://gorest.co.in/public/v2/users/5224083
 
 ******** ALL ASSERTIONS PASSED ********
 {
-    "id": 5188757,
-    "name": "Sanjay Dwivedi DC",
-    "email": "dwivedi_sanjay_dc@gutmann-towne.test",
-    "gender": "female",
+    "id": 5224083,
+    "name": "Ankit2",
+    "email": "zwuyfustbz@example.com",
+    "gender": "male",
     "status": "active"
 }
 
@@ -93,16 +93,16 @@ Get Specific Users URL :  https://gorest.co.in/public/v2/users/5188757
 Get Specific info of All Users URL :  https://gorest.co.in/public/v2/users
 
 ******** ALL ASSERTIONS PASSED ********
-User details of user 1 is ==>  {5188757} {'Sanjay Dwivedi DC'}
-User details of user 2 is ==>  {5188750} {'Mohini Panicker'}
-User details of user 3 is ==>  {5188749} {'Devvrat Butt III'}
-User details of user 4 is ==>  {5186698} {'Elakshi Sethi DVM'}
-User details of user 5 is ==>  {5186697} {'Rajendra Patel'}
-User details of user 6 is ==>  {5186696} {'Drona Shukla'}
-User details of user 7 is ==>  {5186694} {'Bhadran Johar'}
-User details of user 8 is ==>  {5186693} {'Damodara Guha'}
-User details of user 9 is ==>  {5186692} {'The Hon. Kannan Panicker'}
-User details of user 10 is ==>  {5186691} {'Miss Parvati Nair'}
+User details of user 1 is ==>  {5224101} {'Ankit6'}
+User details of user 2 is ==>  {5224100} {'Ankit7'}
+User details of user 3 is ==>  {5224097} {'Ankit7'}
+User details of user 4 is ==>  {5224095} {'Ankit3'}
+User details of user 5 is ==>  {5224083} {'Ankit2'}
+User details of user 6 is ==>  {5224082} {'Ankit5'}
+User details of user 7 is ==>  {5224079} {'Sanjay Dwivedi DC'}
+User details of user 8 is ==>  {5223939} {'Suryakanta Joshi'}
+User details of user 9 is ==>  {5223938} {'Inder Pilla'}
+User details of user 10 is ==>  {5223937} {'Rep. Malati Reddy'}
 
 ******** Specific info of all users printed ********
 
@@ -110,11 +110,11 @@ Get Specific Info of Specific Users URL :  https://gorest.co.in/public/v2/users
 
 ******** ALL ASSERTIONS PASSED ********
 
-Basic info of Bhadran Johar is : 
+Basic info of Ankit2 is : 
  {
-    "id": 5186694,
-    "name": "Bhadran Johar",
-    "email": "johar_bhadran@runte-borer.test"
+    "id": 5224083,
+    "name": "Ankit2",
+    "email": "zwuyfustbz@example.com"
 }
 
-******** Specific info of Bhadran Johar printed ********
+******** Specific info of Ankit2 printed ********

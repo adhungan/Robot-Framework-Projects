@@ -36,7 +36,7 @@ def get_all_users():
 
 def get_specific_user():
 
-    url = base_url + "public/v2/users/5188757"
+    url = base_url + "public/v2/users/5224083"
     print("\nGet Specific Users URL : ", url)
     headers = {"Authorization": auth_token}
     json_data = json.dumps(common_assertion(url, headers=headers), indent=4)
@@ -86,7 +86,7 @@ def get_specific_info_specific_user(user_name):
 get_all_users()
 get_specific_user()
 get_specific_info_all_users()
-get_specific_info_specific_user("Bhadran Johar")
+get_specific_info_specific_user("Ankit2")
 
 
 # Restore the Print Statement
